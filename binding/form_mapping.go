@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-gonic/gin/internal/bytesconv"
-	"github.com/gin-gonic/gin/internal/json"
+	"github.com/saurabh-prakash/gin/internal/bytesconv"
+	"github.com/saurabh-prakash/gin/internal/json"
 )
 
 var (
